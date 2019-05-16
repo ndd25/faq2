@@ -10,7 +10,7 @@
                             Create a Question
                         </a>
 
-                        <a class="btn btn-secondary float-right">
+                        <a class="btn btn-secondary float-right" href="/home">
                             Sort Questions
                         </a>
 

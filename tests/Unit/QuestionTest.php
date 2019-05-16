@@ -21,4 +21,5 @@ class QuestionTest extends TestCase
         $question->user()->associate($user);
         $this->assertTrue($question->save());
     }
+
 }
